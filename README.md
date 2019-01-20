@@ -1,7 +1,7 @@
 # C
 main.c reads integers from stdin and adds each one to a Heap.
-Secontdly prints the Heap tree structure as XML.
-Lastly prints the integers in both sorted and reverse-sorted order.
+Then it will prints the Heap tree structure as XML.
+Lastly it prints the integers in both sorted and reverse-sorted order.
 
 intStack.c is the stack data structure with the functions push, pop and isEmpty.
 
